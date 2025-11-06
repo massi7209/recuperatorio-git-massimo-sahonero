@@ -6,3 +6,12 @@
   **Tema:** Control de Versiones
   **Año:** 2025
 
+## Documentación
+  
+  ### Requisitos
+  - Python 3.x
+  - Git instalado
+  
+  ### Autor
+  Nombre: Massimo Sahonero
+  Fecha: 6/11/25
