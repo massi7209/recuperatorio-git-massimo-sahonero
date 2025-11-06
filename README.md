@@ -1,4 +1,4 @@
-# Proyecto de recuperatorio
+# Proyecto 
   
   Este repositorio forma parte del examen de recuperatorio de control de versiones con Git.
   
